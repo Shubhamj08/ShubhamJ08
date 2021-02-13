@@ -1,9 +1,10 @@
-<h1 align="center">Hi There 👋, I'm Shubham</h1>
-- 🔭 I’m currently working on **Android and Web Development Projects**
+# Hi 👋, I'm Shubham
+---
+🔭 I’m currently working on **Android and Web Development Projects**
 
-- 🌱 I’m currently learning **Data Structures And Algorithms**
+🌱 I’m currently learning **Data Structures And Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shubhamj08](https://github.com/Shubhamj08)
+👨‍💻 All of my projects are available at [https://github.com/Shubhamj08](https://github.com/Shubhamj08)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
