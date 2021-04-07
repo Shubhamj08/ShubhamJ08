@@ -9,7 +9,7 @@
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shubham-jha-08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shubham-jha-08" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shubham-jha-08" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shubham-jha-08" height="30" width="40" /></a>
 <a href="https://instagram.com/shubhamj08/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shubhamj08/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shubhamj_08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shubhamj_08" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sj951563" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sj951563" height="30" width="40" /></a>
